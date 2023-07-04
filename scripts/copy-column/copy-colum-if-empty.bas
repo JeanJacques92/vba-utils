@@ -1,4 +1,4 @@
-Excel Macro to replace a colum value from other if it is empty:
+'Excel Macro to replace a colum value from other if it is empty:
 Sub CopyFormulaResults()
     Dim lastRow As Long
     Dim sourceColumn As Integer
